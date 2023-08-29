@@ -11,4 +11,4 @@
 
 💙 Follow me for more projects like this.
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
